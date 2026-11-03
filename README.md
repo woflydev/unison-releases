@@ -1,6 +1,6 @@
 # Unison releases
 
-Downloads for Unison, a native Discord client. Get the latest build at https://unison.woflydev.com
+Discord at the speed of Rust. Get the latest build at https://unison.woflydev.com
 
 ## Source
 
